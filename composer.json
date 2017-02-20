@@ -1,0 +1,14 @@
+{
+    "name": "songweifun/composerdemo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "David",
+            "email": "keepfun@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
