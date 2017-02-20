@@ -7,5 +7,9 @@
  */
 namespace web\controller;
 class Index{
-    
+
+    public function show(){
+        echo "ThinkPHP";
+    }
+
 }
